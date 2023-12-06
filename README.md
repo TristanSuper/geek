@@ -1,1 +1,1 @@
-👔 Wiki : https://github.com/TristanSuper/geek/wiki
+📒 Wiki : https://github.com/TristanSuper/geek/wiki
